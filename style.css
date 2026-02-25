@@ -265,7 +265,7 @@ footer {
     transition: 0.3s;
 }
 
-#home .container {
+.container {
     display: flex;
     flex-direction: column;
     align-items: center;
